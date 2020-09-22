@@ -1,0 +1,16 @@
+NNs (Neural networks) is a beautiful biologically-inspired programming paradigm which enables a computer to learn
+from observational data
+
+Deep learning is a powerful set of techniques for learning in neural networks
+
+CNNS (Convolutional Neural Networks or ConvNets) are a form of multi-layered deep NNs designed to recognize visual
+patterns (edges,lines, circles, squares, etc) directly from pixel images with minimal processing
+
+mostly used for image recognition, image classification, face recognition, object detection, etc
+
+each input image passes through a series of convolution layers with filters (Kernal) and apply the softmax function
+to classify an object with probabilistic values between 0 and 1
+
+the convolution layer is a mathematical operation that takes two inputs such as image matrix and a filter or kernel
+
+one can apply different filters to perform different operations say edge detection, blur or sharpen
